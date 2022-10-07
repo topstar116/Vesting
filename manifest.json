@@ -1,0 +1,15 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://dandelionlabs.io",
+  "providedBy": { "name": "Dandelion Labs", "url": "https://dandelionlabs.io" },
+  "icons": [
+  ],
+  "orientation": "portrait",
+  "name": "Token Vesting",
+  "description": "Token Vesting user interface to interact with Dandelion Labs token linear vesting smart contracts.",
+  "iconPath": "./images/256x256-dandelion-labs-icon.svg",
+  "short_name": "Token Vesting",
+  "start_url": ".",
+  "theme_color": "#ff007a"
+}
